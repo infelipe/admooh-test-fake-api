@@ -1,0 +1,78 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "photoCount": 3,
+      "thumbnailUrl": "https://placekitten.com/200/300",
+      "title": "quidem molestiae enim"
+    },
+    {
+      "id": 2,
+      "photoCount": 3,
+      "thumbnailUrl": "https://placekitten.com/300/300",
+      "title": "sunt qui excepturi placeat culpa"
+    },
+    {
+      "id": 3,
+      "photoCount": 3,
+      "thumbnailUrl": "https://placekitten.com/400/300",
+      "title": "omnis laborum odio"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://placekitten.com/200/300"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "url": "https://placekitten.com/225/300"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://placekitten.com/250/300"
+    },
+    {
+      "albumId": 2,
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://placekitten.com/300/300"
+    },
+    {
+      "albumId": 2,
+      "id": 5,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://placekitten.com/325/300"
+    },
+    {
+      "albumId": 2,
+      "id": 6,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "url": "https://placekitten.com/350/300"
+    },
+    {
+      "albumId": 3,
+      "id": 7,
+      "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+      "url": "https://placekitten.com/400/300"
+    },
+    {
+      "albumId": 3,
+      "id": 8,
+      "title": "aut porro officiis laborum odit ea laudantium corporis",
+      "url": "https://placekitten.com/425/300"
+    },
+    {
+      "albumId": 3,
+      "id": 9,
+      "title": "qui eius qui autem sed",
+      "url": "https://placekitten.com/450/300"
+    }
+  ]
+}
